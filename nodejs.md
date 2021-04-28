@@ -25,5 +25,8 @@
 
 ### [minimist](https://www.npmjs.com/package/minimist)
 >轻量级的命令行参数解析引擎
+
+### [portfinder](https://www.npmjs.com/package/portfinder)
+>查找可用的端口号
 ---
 ***
