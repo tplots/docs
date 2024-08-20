@@ -6,6 +6,11 @@ System V init 命令
 systemctl命令
 ```
 
+### 存放目录
+```
+/etc/systemd/system
+```
+
 
 #### 启动服务
 ```
