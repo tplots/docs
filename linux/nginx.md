@@ -6,7 +6,7 @@ https://nginx.org/en/linux_packages.html#RHEL-CentOS
 
 ### 设置www目录所属  防止502
 ``` cmd
-chown -R nginx:nginx www
+chown -R nginx:nginx /var/www
 ```
 
 
